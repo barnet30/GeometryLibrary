@@ -2,6 +2,12 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryLibrary", "GeometryLibrary\GeometryLibrary.csproj", "{DCFBFBA9-7684-492B-B101-DFD011A13740}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryLibrary.Abstractions", "GeometryLibrary.Abstractions\GeometryLibrary.Abstractions.csproj", "{5B077C4E-F8AA-439E-8EDC-A670A5F1CAA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryLibrary.Tests", "GeometryLibrary.Tests\GeometryLibrary.Tests.csproj", "{9D24DA3F-6342-43CE-8966-F9AC8F0C98D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryLibrary.ConsoleApp", "GeometryLibrary.ConsoleApp\GeometryLibrary.ConsoleApp.csproj", "{07A320A6-9D63-4F34-9002-245DADE11C3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +18,17 @@ Global
 		{DCFBFBA9-7684-492B-B101-DFD011A13740}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCFBFBA9-7684-492B-B101-DFD011A13740}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCFBFBA9-7684-492B-B101-DFD011A13740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B077C4E-F8AA-439E-8EDC-A670A5F1CAA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B077C4E-F8AA-439E-8EDC-A670A5F1CAA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B077C4E-F8AA-439E-8EDC-A670A5F1CAA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B077C4E-F8AA-439E-8EDC-A670A5F1CAA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D24DA3F-6342-43CE-8966-F9AC8F0C98D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D24DA3F-6342-43CE-8966-F9AC8F0C98D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D24DA3F-6342-43CE-8966-F9AC8F0C98D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D24DA3F-6342-43CE-8966-F9AC8F0C98D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07A320A6-9D63-4F34-9002-245DADE11C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A320A6-9D63-4F34-9002-245DADE11C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A320A6-9D63-4F34-9002-245DADE11C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A320A6-9D63-4F34-9002-245DADE11C3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

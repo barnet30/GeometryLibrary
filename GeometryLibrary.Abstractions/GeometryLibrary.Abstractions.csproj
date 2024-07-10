@@ -6,8 +6,4 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
-    <ItemGroup>
-      <ProjectReference Include="..\GeometryLibrary.Abstractions\GeometryLibrary.Abstractions.csproj" />
-    </ItemGroup>
-
 </Project>
